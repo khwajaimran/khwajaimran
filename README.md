@@ -29,6 +29,6 @@ HP Certified System Administrator (HP UNIX)<br/>
 Microsoft Certified Systems Engineer (MCSE)<br/>
 Cisco Certified Network Associate (CCNA)<br/>
 <br/>
-- 💬 Ask me about anything in DevOps/DevSecOps, Site Reliability Engineering, Cloud, Cyber/Information Security, I am happy to help;
+- 💬 Ask me about anything in DevOps/DevSecOps, Site Reliability Engineering, Cloud, IT Infrastructure, Databases (Oracle), Cyber/Information Security, I am happy to help;
 - 📫 How to reach me: khwaja.imran@yahoo.com
 - 🌐 Know more about me: www.khwajaimran.com
