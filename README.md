@@ -1,5 +1,5 @@
 ### Hi there, thanks for visiting my Git profile 👋
-![](https://visitor-badge.glitch.me/badge?page_id=khwajaimran.khwajaimran)<a href="https://twitter.com/khwajaimran"> 
+<a href="https://twitter.com/khwajaimran"> 
 <img align="left" alt="Khwaja Imran Mohammed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/khwajaimran/">
