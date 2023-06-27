@@ -4,7 +4,9 @@
 </a>
 <a href="https://www.linkedin.com/in/khwajaimran/">
   <img align="left" alt="Khwaja Imran Mohammed" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+
 <br/><br/>
+
 Hi, I'm Khwaja Imran Mohammed (aka Imran), Technology/Engineering Leader with experience spanning IT Infrastructure Management, Midrange, Databases, Security, Cloud, DevOps/DevSecOps, Site Reliability Engineering, IT Operations/Production Support & Project Management skills to deliver and maintain robust, scalable and reliable technology environments of highest standards. 
 
 I am a IT leader who is people focused, engaging and authentic. Technologist with a passion to simplify complicated things. I strongly feel that technology can change the way we do & see things... <br/>
