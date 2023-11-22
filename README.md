@@ -9,6 +9,7 @@ I am a IT leader who is people focused, engaging and authentic. Technologist wit
 Certified Information Security Manager (CISM)<br/>
 Certified Information Systems Auditor (CISA)<br/>
 Certified in Risk and Information Systems Control (CRISC)<br/>
+ISO 27001:2022 Lead Auditor (Information Security, Cybersecurity & Privacy Protection)<br/>
 TOGAF 9 Certified<br/>
 AWS Certified Solutions Architect - Professional<br/>
 AWS Certified SysOps Administrator - Associate<br/>
