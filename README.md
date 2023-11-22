@@ -10,9 +10,9 @@ Certified Information Security Manager (CISM)<br/>
 Certified Information Systems Auditor (CISA)<br/>
 Certified in Risk and Information Systems Control (CRISC)<br/>
 ISO 27001:2022 Lead Auditor (Information Security, Cybersecurity & Privacy Protection)<br/>
-TOGAF 9 Certified<br/>
 AWS Certified Solutions Architect - Professional<br/>
 AWS Certified SysOps Administrator - Associate<br/>
+TOGAF 9 Certified<br/>
 PRINCE2 Practitioner<br/>
 ITIL Expert Certified<br/>
 Certified Data Privacy Solutions Engineer (CDPSE)<br/>
