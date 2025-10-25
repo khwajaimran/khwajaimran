@@ -6,6 +6,7 @@ Hi, I'm Khwaja Imran Mohammed (aka Imran); Technology/Engineering Leader with 15
 I am a IT leader who is people focused, engaging and authentic. Technologist with a passion to simplify complicated things. I strongly feel that technology can change the way we do & see things... <br/>
 
 #### Certifications
+Certified Information Systems Security Professional (CISSP)<br/>
 Certified Information Security Manager (CISM)<br/>
 Certified Information Systems Auditor (CISA)<br/>
 Certified in Risk and Information Systems Control (CRISC)<br/>
