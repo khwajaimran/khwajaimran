@@ -10,14 +10,18 @@ Certified Information Security Manager (CISM)<br/>
 Certified Information Systems Auditor (CISA)<br/>
 Certified in Risk and Information Systems Control (CRISC)<br/>
 ISO 27001:2022 Lead Auditor (Information Security, Cybersecurity & Privacy Protection)<br/>
+ISACA Advanced in AI Security Management (AAISM)<br/>
+Certificate of Cloud Security Knowledge (CCSK)<br/>
+Certificate of Competence in Zero Trust (CCZT)<br/>
 AWS Certified Solutions Architect - Professional<br/>
-AWS Certified SysOps Administrator - Associate<br/>
+AWS Certified Security - Specialty<br/>
+AWS Certified AI Practitioner<br/>
 TOGAF 9 Certified<br/>
 PRINCE2 Practitioner<br/>
-ITIL Expert Certified<br/>
+ITIL Expert<br/>
 Certified Data Privacy Solutions Engineer (CDPSE)<br/>
 Project Management Professional (PMP)<br/>
-CompTIA Security+ Certified<br/>
+CompTIA Security+<br/>
 Certified Ethical Hacker (CEH)<br/>
 Oracle Certified Professional (Oracle 9i & 10g DBA)<br/>
 RedHat Certified Systems Engineer (RHCE)<br/>
