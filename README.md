@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting my Git profile 👋
 <br/><br/>
-Hi, I'm Imran; Technology/Engineering Leader with 20+ years of experience spanning IT Infrastructure Management, Midrange, Databases, Security, Cloud, DevOps/DevSecOps, Site Reliability Engineering, IT Operations/Production Support & Project Management skills to deliver and maintain robust, scalable and reliable technology environments of highest standards.
+Hi, I'm Imran; I am an outcome-driven Technology/Engineering Leader with 20+ years of experience spanning IT Infrastructure Management, Midrange, Databases, Security, Cloud, DevOps/DevSecOps, Site Reliability Engineering, IT Operations/Production Support & Project Management skills to deliver and maintain robust, scalable and reliable technology environments of highest standards.
 
 I am a IT leader who is people focused, engaging and authentic. Technologist with a passion to simplify complicated things. I strongly feel that technology can change the way we do & see things... <br/>
 
